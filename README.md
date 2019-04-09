@@ -9,6 +9,7 @@ pip install theresa
 ```
 
 ## Usage
+Simply run `theresa` from the command line and enter into a conversation with the PM. 
 ```
 $ theresa
 Hello, I am Prime Minister Theresa May
@@ -22,4 +23,4 @@ Let me be very clear: Brexit means Brexit
 ```
 
 ## Notes
-There is no way to exit this conversation.
+There is no clean way to exit this conversation.
