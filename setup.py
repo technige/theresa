@@ -36,6 +36,7 @@ package_metadata = {
     },
     "packages": packages,
     "install_requires": [
+        "six",
     ],
     "license": "Apache License, Version 2.0",
     "classifiers": [

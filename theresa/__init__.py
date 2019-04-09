@@ -16,6 +16,9 @@
 # limitations under the License.
 
 
+from six.moves import input
+
+
 def theresa_repl():
     print("Hello, I am Prime Minister Theresa May")
     while True:
